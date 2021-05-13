@@ -4,6 +4,7 @@
 <h1> A Front-End Web Developer </h1>
 <h3> Self-motivted, greedy to learn new tools and Technologies of web | passion to become a world-class developer.</h3>
 <h3>  Fun fact: I Love coding All the Time.</h3>
+</hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_mdimranulhaque" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_mdimranulhaque" height="30" width="40" /></a>
