@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imran-2021&label=Profile%20views&color=0e75b6&style=flat" alt="imran-2021" /> </p>
 
 ### Hello,I'm Md Imranul Haque. 
-<h1> A Front-End Web Developer <h1/>
+<h1> A Front-End Web Developer </h1>
 <h3> Self-motivted, greedy to learn new tools and Technologies of web | passion to become a world-class developer.</h3>
 <h3>  Fun fact: I Love coding All the Time.</h3>
 <h3 align="left">Connect with me:</h3>
